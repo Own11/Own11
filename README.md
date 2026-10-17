@@ -62,7 +62,7 @@ UI/UX · Figma
 |---|---|---|
 | [**LabAI**](https://labaidev.vercel.app) | Python · AI | AI tool for teachers. Live in 1 school, negotiating with 5 more. |
 | [**Alerta**](https://alertaeye.vercel.app) | Python · AI · DevOps | AI server monitoring & DevOps tool. 60+ on waitlist. |
-| [**Catalyse**](https://catalyse.vercel.app) | Python · Web | Builds a visual profile of a university from open data. |
+| [**Catalyse**](https://catalys-vert.vercel.app) | Python · Web | Builds a visual profile of a university from open data. |
 | [**AimAI**](https://aimai-iota.vercel.app) | Python · AI | AI task manager that tracks *why* you didn't finish tasks. |
 
 ---
